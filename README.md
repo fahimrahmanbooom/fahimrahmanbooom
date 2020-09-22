@@ -17,3 +17,17 @@ Here are some ideas to get you started:
 I am a self-taught iOS developer. When I am not coding, I enjoy reading a different kind of books, articles and blogs. I love Netflix and Podcasts.
 
 ![Fahim's github stats](https://github-readme-stats.vercel.app/api?username=fahimrahmanbooom&show_icons=true)
+
+<br>
+
+  <a href="https://linkedin.com/in/fahim-rahman-8943a7179/">
+    <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+  </a>
+  <a href="https://twitter.com/fahimrahman0000">
+    <img align="left" alt="Shubhamdeep Jha | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
+  </a>
+  <a href="mailto:fahimrahmanbooom@gmail.com">
+    <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+  </a>&nbsp; &nbsp;
+<a href="https://fahimrahmanbooom.github.io"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/site.svg" width="30px" alt="site"></a>
+<br><br><br><br>
