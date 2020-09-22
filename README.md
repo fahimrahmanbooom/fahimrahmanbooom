@@ -28,6 +28,6 @@ I am a self-taught iOS developer. When I am not coding, I enjoy reading a differ
   </a>
   <a href="mailto:fahimrahmanbooom@gmail.com">
     <img align="left" alt="Fahim Rahman | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
-  </a>&nbsp;
+  </a>
 <a href="https://fahimrahmanbooom.github.io"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/site.svg" width="26px" alt="site"></a>
 <br><br><br><br>
