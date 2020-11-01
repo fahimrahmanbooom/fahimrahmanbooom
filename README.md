@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## 👋🏻 Hi there, I'm [Fahim Rahman](http://fahimrahman.xyz)
 
-I am a self-taught iOS developer.📱 When I am not coding, I enjoy reading a different kind of books, articles and blogs. I enjoy Netflix and Podcasts.
+I am a self-taught iOS developer.📱 When I am not coding, I enjoy reading a different kind of books, articles, blogs, podcasts and movies.
 <br>
 ![Fahim's github stats](https://github-readme-stats.vercel.app/api?username=fahimrahmanbooom&show_icons=true)
 
