@@ -1,6 +1,6 @@
 ## 👋🏻 Hi there, I'm [Fahim Rahman](http://fahimrahman.xyz)
 
-I am a software engineer. Most of the time work with 📱 iOS, 💧 Vapor and 📟 Microcontroller. When I am not coding, I enjoy reading a different kind of books, articles, blogs, podcasts and movies.
+I am a software engineer. Most of the time i work with 📱 iOS, 💧 Vapor and 📟 Microcontroller. I enjoy reading a different kind of books, articles, blogs, podcasts and movies.
 
 <br>
 <br>
