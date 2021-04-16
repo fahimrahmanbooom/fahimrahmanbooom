@@ -1,6 +1,6 @@
 ## 👋🏻 Hi there, I'm [Fahim Rahman](http://fahimrahman.xyz)
 
-I am a software engineer. Most of the time I work on 📱 iOS, 💧 Vapor, and 📟 Arduino. I enjoy reading different kinds of books, articles, blogs, podcasts, and movies.
+I am a software engineer. Most of the time I work on 📱 iOS, 💧 Vapor and 📟 Arduino. I enjoy books, articles, blogs, podcasts, and movies.
 
 <br>
 <br>
