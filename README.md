@@ -2,7 +2,12 @@
 
 I am a software engineer. Most of the time I work on 📱 iOS, 💧 Vapor and 📟 Arduino. I enjoy books, articles, blogs, podcasts, and movies.
 
-<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fahimrahmanbooom&label=Profile%20views&color=0e75b6&style=flat" alt="fahimrahmanbooom" /> </p> 
+
+![Fahim's github stats](https://github-readme-stats.vercel.app/api?username=fahimrahmanbooom&show_icons=true)
+  
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fahimrahmanbooom" alt="fahimrahmanbooom" /></a> </p>
+
 <br>
   <a href="https://linkedin.com/in/fahim-rahman-8943a7179/">
     <img align="left" alt="Fahim Rahman | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
@@ -17,4 +22,4 @@ I am a software engineer. Most of the time I work on 📱 iOS, 💧 Vapor an
     <img align="left" alt="Fahim Rahman | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
 <a href="https://fahimrahmanbooom.github.io"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/site.svg" width="26px" alt="site"></a>
-<br><br><br><br>
+<br>
