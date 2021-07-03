@@ -1,4 +1,4 @@
-## 👋🏻 Hi there, I'm [Fahim Rahman](http://fahimrahman.xyz)
+## 👋🏻 Hi there, I'm [Fahim Rahman](http://fahimrahman.tech)
 
 I am a software engineer. Mostly I work on 📱 iOS, 💧 Vapor, 🍃 ExpressJS and 📟 Arduino. I enjoy books, articles, blogs, podcasts, and movies. My hobbies are cooking and listening to the radio. I do A2A on Quora about various topics. I have a big interest in automobile technologies and astrophysics.
 
