@@ -1,6 +1,13 @@
-## 👋🏻 Hi there, I'm [Fahim Rahman](http://fahimrahman.tech)
+## 👋🏻 Hi there, I'm [Fahim Rahman](http://fahimrahman.tech)<br>
 
-I am a software engineer. Mostly I work on 📱 iOS, 💧 Vapor, 🍃 ExpressJS and 📟 Arduino. I enjoy books, articles, blogs, podcasts, and movies. My hobbies are cooking and listening to the radio. I do A2A on Quora about various topics. I have a big interest in automobile technologies and astrophysics.
+I am a software engineer. Mostly I work on <br>
+
+📱 iOS and iPadOS App Development.<br>
+💧 Vapor - Server-side Swift web framework.<br>
+🍃 ExpressJS - Server-side JavaScript web framework.<br>
+📟 Embedded System - Circuit Design, Firmware development, and IoT.<br>
+
+I enjoy books, articles, blogs, podcasts, and movies. My hobbies are cooking and listening to the radio. I do A2A on Quora about various topics. I have a big interest in automobile technologies and astrophysics.<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahimrahmanbooom&label=Profile%20views&color=0e75b6&style=flat" alt="fahimrahmanbooom" /> </p> 
 
