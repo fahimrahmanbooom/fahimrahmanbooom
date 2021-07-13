@@ -15,7 +15,7 @@ I enjoy books, articles, blogs, podcasts, and movies. My hobbies are cooking and
   
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fahimrahmanbooom" alt="fahimrahmanbooom" /></a> </p>
 
-<br>
+<br align="center">
   <a href="https://linkedin.com/in/fahim-rahman-8943a7179/">
     <img align="center" alt="Fahim Rahman | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
