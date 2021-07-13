@@ -28,5 +28,5 @@ I enjoy books, articles, blogs, podcasts, and movies. My hobbies are cooking and
   <a href="mailto:fahimrahmanbooom@gmail.com">
     <img align="center" alt="Fahim Rahman | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
-<a href="https://fahimrahmanbooom.github.io"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/site.svg" width="26px" alt="site"></a>
+<a href="https://fahimrahmanbooom.github.io"><img align="center" src="https://github.com/deut-erium/deut-erium/blob/master/assets/site.svg" width="26px" alt="site"></a>
 <br>
