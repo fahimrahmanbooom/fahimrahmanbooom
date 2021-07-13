@@ -11,24 +11,19 @@ I enjoy books, articles, blogs, podcasts, and movies. My hobbies are cooking and
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=fahimrahmanbooom&label=Profile%20views&color=0e75b6&style=flat" alt="fahimrahmanbooom" /> </p> 
 
-<p align="center">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahimrahmanbooom&theme=black&hide_border=true"/>
-</p>
-  
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fahimrahmanbooom" alt="fahimrahmanbooom" /></a> </p>
+## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
 
-<br align="center">
-  <a href="https://linkedin.com/in/fahim-rahman-8943a7179/">
-    <img align="center" alt="Fahim Rahman | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+<p align="center">
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahimrahmanbooom&theme=algolia&hide_border=false"/>
+</p>
+
+ <p align="center">
+  <a href="https://github.com/fahimrahmanbooom">
+   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=fahimrahmanbooom&show_icons=true&theme=algolia&count_private=true">
   </a>
-  <a href="https://twitter.com/fahimrahman0000">
-    <img align="center" alt="Fahim Rahman | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
+  <a href="https://github.com/fahimrahmanbooom">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=fahimrahmanbooom&layout=compact&theme=algolia&langs_count=6" />
   </a>
-  <a href="https://bn.quora.com/profile/Fahim-Rahman-6">
-    <img align="center" alt="Fahim Rahman | Twitter" width="26px" src="https://github.com/fahimrahmanbooom/fahimrahmanbooom.github.io/blob/master/images/portfolio/quora.svg" />
-  </a>
-  <a href="mailto:fahimrahmanbooom@gmail.com">
-    <img align="center" alt="Fahim Rahman | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
-  </a>
-<a href="https://fahimrahmanbooom.github.io"><img align="center" src="https://github.com/deut-erium/deut-erium/blob/master/assets/site.svg" width="26px" alt="site"></a>
-<br>
+ </p>
+
+Visit my [Portfolio](http://fahimrahman.tech)
