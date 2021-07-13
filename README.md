@@ -12,6 +12,9 @@ I enjoy books, articles, blogs, podcasts, and movies. My hobbies are cooking and
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=fahimrahmanbooom&label=Profile%20views&color=0e75b6&style=flat" alt="fahimrahmanbooom" /> </p> 
 
 <p align="center"> ![Fahim's github stats](https://github-readme-stats.vercel.app/api?username=fahimrahmanbooom&show_icons=true) </p>
+<p align="center">
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahimrahmanbooom&theme=algolia&hide_border=true"/>
+</p>
   
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fahimrahmanbooom" alt="fahimrahmanbooom" /></a> </p>
 
