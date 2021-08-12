@@ -7,7 +7,7 @@ I am a software engineer. Mostly I work on <br>
 🍃 ExpressJS - Server-side JavaScript web framework.<br>
 📟 Embedded System - Circuit Design, Firmware development, and IoT.<br>
 
-I enjoy books, articles, blogs, podcasts, and movies. My hobbies are cooking and listening to the radio. I do A2A on Quora about various topics. I have a big interest in automobile technologies and astrophysics.<br><br><br><br>
+I enjoy books, articles, blogs, podcasts, and movies. My hobbies are cooking and listening to the radio. I do A2A on Quora about various topics. I have a great interest in automobile technologies and astrophysics.<br><br><br><br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=fahimrahmanbooom&label=Profile%20views&color=0e75b6&style=flat" alt="fahimrahmanbooom" /> </p> 
 
