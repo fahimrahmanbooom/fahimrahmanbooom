@@ -2,7 +2,7 @@
 
 I am a software engineer. Mostly I work on <br>
 
-📱 iOS and iPadOS App Development.<br>
+📱 iOS, iPadOS and MacOS App Development.<br>
 💧 Vapor - Server-side Swift web framework.<br>
 🍃 ExpressJS - Server-side JavaScript web framework.<br>
 📟 Embedded System - Circuit Design, Firmware development, and IoT.<br>
