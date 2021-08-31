@@ -2,9 +2,9 @@
 
 I am a software engineer. Mostly I work on <br>
 
-📱 iOS, iPadOS and MacOS App Development.<br>
-💧 Vapor - Server-side Swift web framework.<br>
-🍃 ExpressJS - Server-side JavaScript web framework.<br>
+📱 UIKit and SwiftUI - Apple's app development framwork.<br>
+💧 Vapor - Server-side Swift web application framework.<br>
+🍃 ExpressJS - Server-side JavaScript web application framework.<br>
 📟 Embedded System - Circuit Design, Firmware development, and IoT.<br>
 
 I enjoy books, articles, blogs, podcasts, and movies. My hobbies are cooking and listening to the radio. I do A2A on Quora about various topics. I have a great interest in automobile technologies and astrophysics.<br><br><br><br>
