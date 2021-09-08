@@ -2,7 +2,7 @@
 
 I am a software engineer. Mostly I work on <br>
 
-📱 UIKit and SwiftUI - Apple's app development framwork.<br>
+📱 UIKit and SwiftUI - Apple's app development framework.<br>
 💧 Vapor - Server-side Swift web application framework.<br>
 🍃 ExpressJS - Server-side JavaScript web application framework.<br>
 📟 Embedded System - Circuit Design, Firmware development, and IoT.<br>
