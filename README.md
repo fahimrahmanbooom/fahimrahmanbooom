@@ -1,4 +1,4 @@
-## 👋🏻 Hi there, I'm [Fahim Rahman](http://fahimrahman.tech)<br>
+## 👋🏻 Hi there, I'm [Fahim Rahman](https://fahimrahman.netlify.app)<br>
 
 I am a software engineer. Mostly I work on <br>
 
@@ -26,4 +26,4 @@ I enjoy books, articles, blogs, podcasts, and movies. My hobbies are cooking and
   </a>
  </p>
 
-Visit my [Portfolio](http://fahimrahman.tech)
+Visit my [Portfolio](https://fahimrahman.netlify.app)
