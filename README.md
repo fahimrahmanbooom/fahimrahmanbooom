@@ -1,5 +1,6 @@
 ## 👋🏻 Hi there, I'm [Fahim Rahman](https://fahimrahman.netlify.app)<br>
-
+<p align="center"> META Certified iOS Developer </p>
+<p align="center"> <a href="https://www.credly.com/badges/5bb3ad01-8fc1-4db7-9880-0bf621901d8f/public_url">Verify here</a></p>
 I am a software engineer. Mostly I work on <br>
 
 📱 UIKit and SwiftUI - Apple's app development framework.<br>
