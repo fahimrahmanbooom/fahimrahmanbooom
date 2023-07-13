@@ -1,14 +1,14 @@
 ## 👋🏻 Hi there, I'm [Fahim Rahman](https://fahimrahman.netlify.app)<br>
 <p align="center"> META Certified iOS Developer </p>
 <p align="center"> <a href="https://www.credly.com/badges/5bb3ad01-8fc1-4db7-9880-0bf621901d8f/public_url">Verify here</a></p>
-I am a software engineer. Mostly I work on <br>
+I am a software engineer. I mostly work on <br>
 
 📱 UIKit and SwiftUI - Apple's app development framework.<br>
 💧 Vapor - Server-side Swift web application framework.<br>
 🍃 ExpressJS - Server-side JavaScript web application framework.<br>
 📟 Embedded System - Circuit Design, Firmware development, and IoT.<br>
 
-I enjoy books, articles, blogs, podcasts, and movies. My hobbies are cooking and listening to the radio. I do A2A on Quora about various topics. I have a great interest in automobile technologies and astrophysics.<br><br><br><br>
+I enjoy books, articles, blogs, podcasts, guitar, and movies. My hobbies are cooking and listening to the old-school radio. I do A2A on Quora about various topics. I have a great interest in automobile technologies and astrophysics.<br><br><br><br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=fahimrahmanbooom&label=Profile%20views&color=0e75b6&style=flat" alt="fahimrahmanbooom" /> </p> 
 
